@@ -1,10 +1,10 @@
 {
-    name: "sprongy",
-    nameInText: "Sprongy the Sproinger",
-    enemy: "sprongy",
-    tempo: 95,
-    noteLifetime: 1,
-    notes: [
+    "name": "sprongy",
+    "nameInText": "Sprongy the Sproinger",
+    "enemy": "sprongy",
+    "tempo": 95,
+    "noteLifetime": 1,
+    "notes": [
         [ "w", 2,1 ],
         [ "s", 0.5 ],
         [ "w", 0.5 ],
