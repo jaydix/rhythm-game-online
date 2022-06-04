@@ -1,1 +1,1 @@
-{"create":"function(){console.log('hi')}"}
+{"create":"console.log('hi')"}
