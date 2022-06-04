@@ -1,1 +1,4 @@
-{"create":"console.log('hi')","update":"console.log('elapsed:',elapsed)"}
+{
+  "create": "console.log('hi')",
+  "update": "console.log('elapsed:',elapsed)"
+}
