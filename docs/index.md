@@ -26,3 +26,20 @@ The getting functions (`getNoteY`, `getNoteX`, `getNoteOpacity`, `getNoteRotatio
 ## Variables
 ### `showOnlyNotes`
 If checked, everything disappears but the notes.
+
+
+## Callbacks
+### `create`
+Called when the song is started.
+
+### `update(elapsed)`
+Called every frame.
+`elapsed` is the number of frames that have passed since `create` was called.
+
+### `halfBeat(step)`
+Called every half-beat.
+More precise than `beat`.
+
+### `beat(beat)`
+Called every beat.
+Use `beat % 4` to call code on measures.
