@@ -1,1 +1,1 @@
-{"create":"function(){console.log('hi')}","update":"function(elapsed){console.log('elapsed:',elapsed)}"}
+{"create":"console.log('hi')","update":"console.log('elapsed:',elapsed)"}
