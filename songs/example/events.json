@@ -1,5 +1,6 @@
 {
-  "create": "window.a = Game.m.functions.getNoteX('a',project.width/2); window.s = Game.m.functions.getNoteX('s',project.width/2); window.w = Game.m.functions.getNoteX('w',project.width/2); window.d = Game.m.functions.getNoteX('d',project.width/2)",
-  "update": "var speed = 9; Game.target_a.x += ((project.width/2-(Game.target_a.x/speed*2))-project.width/2.55); Game.target_s.x += ((project.width/2-(Game.target_s.x/speed*2))-project.width/2.55); Game.target_w.x += ((project.width/2-(Game.target_w.x/speed*2))-project.width/2.55); Game.target_d.x += ((project.width/2-(Game.target_d.x/speed*2))-project.width/2.55)",
-  "beat": "Game.m.functions.setNoteX('a',a); Game.m.functions.setNoteX('s',s); Game.m.functions.setNoteX('w',w); Game.m.functions.setNoteX('d',d)"
+  "create": ""
+  "update": ""
+  "beat": ""
+  "halfBeat": ""
 }
